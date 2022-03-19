@@ -5,15 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2be47108-64a4-46ec-b2e0-5cd5d8db3ee7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task06/Task06.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task06/Task06_01_自定义损失函数.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task06/Task06_02_动态调整学习率.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task06/Task06_03_模型微调.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task06/Task06_04_半精度训练.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task06/img.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task06/Task06_pytorch.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task06/Task06.md" beforeDir="false" afterPath="$PROJECT_DIR$/Task06/Task06.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task06/Task06_01_自定义损失函数.md" beforeDir="false" afterPath="$PROJECT_DIR$/Task06/Task06_01_自定义损失函数.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task06/Task06_02_动态调整学习率.md" beforeDir="false" afterPath="$PROJECT_DIR$/Task06/Task06_02_动态调整学习率.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task06/Task06_03_模型微调.md" beforeDir="false" afterPath="$PROJECT_DIR$/Task06/Task06_03_模型微调.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task06/Task06_04_半精度训练.md" beforeDir="false" afterPath="$PROJECT_DIR$/Task06/Task06_04_半精度训练.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1647500763456</updated>
       <workItem from="1647500766302" duration="1570000" />
-      <workItem from="1647695635919" duration="2467000" />
+      <workItem from="1647695635919" duration="2602000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <created>1647501990147</created>
@@ -68,7 +65,21 @@
       <option name="project" value="LOCAL" />
       <updated>1647501990147</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="测试">
+      <created>1647698129947</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1647698129947</updated>
+    </task>
+    <task id="LOCAL-00003" summary="task06">
+      <created>1647698206236</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1647698206236</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,6 +87,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="测试" />
-    <option name="LAST_COMMIT_MESSAGE" value="测试" />
+    <MESSAGE value="task06" />
+    <option name="LAST_COMMIT_MESSAGE" value="task06" />
   </component>
 </project>

@@ -179,7 +179,6 @@ for epoch in range(1, epochs+1):
 train(epoch)
 val(epoch)
 
-
 #Training
 
 /home/tj/anaconda3/envs/tf/bin/python /home/tj/Study/pytorch/Task04.py
