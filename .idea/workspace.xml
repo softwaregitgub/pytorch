@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2be47108-64a4-46ec-b2e0-5cd5d8db3ee7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Task06/Task06_02_动态调整学习率.md" beforeDir="false" afterPath="$PROJECT_DIR$/Task06/Task06_02_动态调整学习率.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1647500763456</updated>
       <workItem from="1647500766302" duration="1570000" />
-      <workItem from="1647695635919" duration="2985000" />
+      <workItem from="1647695635919" duration="3631000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <created>1647501990147</created>
@@ -88,7 +88,21 @@
       <option name="project" value="LOCAL" />
       <updated>1647698424284</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="task06">
+      <created>1647698646006</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1647698646006</updated>
+    </task>
+    <task id="LOCAL-00007" summary="task06">
+      <created>1647698884368</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1647698884368</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
