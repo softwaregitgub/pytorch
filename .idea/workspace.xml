@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2be47108-64a4-46ec-b2e0-5cd5d8db3ee7" name="Changes" comment="" />
+    <list default="true" id="2be47108-64a4-46ec-b2e0-5cd5d8db3ee7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +20,7 @@
       </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="26VFHkAr3rdoMThDWw8Bycn8CC7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -29,7 +32,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Task06" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -50,6 +53,9 @@
       <updated>1647500763456</updated>
       <workItem from="1647500766302" duration="1570000" />
       <workItem from="1647695635919" duration="3887000" />
+      <workItem from="1647699648721" duration="594000" />
+      <workItem from="1647744301772" duration="45000" />
+      <workItem from="1647932927473" duration="302000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <created>1647501990147</created>
@@ -107,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647699358048</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="task06">
+      <created>1647699831849</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1647699831849</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
