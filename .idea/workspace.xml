@@ -5,17 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2be47108-64a4-46ec-b2e0-5cd5d8db3ee7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Task07/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task07/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task07/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task07/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task07/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task07/6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task07/Task07_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task07/Task07_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task07/Task07_3_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task07/Task07_3_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task07/Task07_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task8/Task08_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task8/Task08_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task8/Task08_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task8/Task08_4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +36,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Task07" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Task8" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -51,6 +44,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\study\Task8" />
       <recent name="H:\study\Task07" />
       <recent name="H:\study\Task06" />
     </key>
@@ -67,7 +61,8 @@
       <workItem from="1647695635919" duration="3887000" />
       <workItem from="1647699648721" duration="594000" />
       <workItem from="1647744301772" duration="45000" />
-      <workItem from="1647932927473" duration="2642000" />
+      <workItem from="1647932927473" duration="3748000" />
+      <workItem from="1648101695733" duration="1593000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <created>1647501990147</created>
@@ -139,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647933380736</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="task06">
+      <created>1647935761731</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1647935761731</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
