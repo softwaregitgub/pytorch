@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af81b6eb-2efd-4ce7-9d92-68fefb4d1c6c" name="Changes" comment="线性代数" />
+    <list default="true" id="af81b6eb-2efd-4ce7-9d92-68fefb4d1c6c" name="Changes" comment="线性回归">
+      <change afterPath="$PROJECT_DIR$/DeepLearning/LinearNeuralNetwork/线性回归的从零开始实现.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +54,7 @@
       <recent name="$PROJECT_DIR$/DeepLearning/Calculus" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.线性回归的从零开始实现_01">
+  <component name="RunManager" selected="Python.plot">
     <configuration name="微积分" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pytorch" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -202,7 +205,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.线性回归的从零开始实现_01" />
         <item itemvalue="Python.自动求导.md" />
         <item itemvalue="Python.plot" />
         <item itemvalue="Python.test" />
@@ -226,7 +228,8 @@
       <workItem from="1679559538390" duration="2392000" />
       <workItem from="1679562394258" duration="3977000" />
       <workItem from="1679566676180" duration="841000" />
-      <workItem from="1679572063786" duration="5694000" />
+      <workItem from="1679572063786" duration="5725000" />
+      <workItem from="1679579470498" duration="991000" />
     </task>
     <task id="LOCAL-00001" summary="线性代数">
       <created>1679482527398</created>
@@ -298,7 +301,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679578716665</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="线性回归">
+      <created>1679578991232</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1679578991232</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -317,9 +327,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="自动求导" />
-    <MESSAGE value="线性回归" />
     <MESSAGE value="线性代数" />
-    <option name="LAST_COMMIT_MESSAGE" value="线性代数" />
+    <MESSAGE value="线性回归" />
+    <option name="LAST_COMMIT_MESSAGE" value="线性回归" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
