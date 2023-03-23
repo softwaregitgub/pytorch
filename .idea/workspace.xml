@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af81b6eb-2efd-4ce7-9d92-68fefb4d1c6c" name="Changes" comment="线性回归">
-      <change afterPath="$PROJECT_DIR$/DeepLearning/LinearNeuralNetwork/线性回归的从零开始实现.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DeepLearning/LinearNeuralNetwork/线性回归代码的简洁实现.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearning/LinearNeuralNetwork/线性回归的从零开始实现.md" beforeDir="false" afterPath="$PROJECT_DIR$/DeepLearning/LinearNeuralNetwork/线性回归的从零开始实现.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -229,7 +230,7 @@
       <workItem from="1679562394258" duration="3977000" />
       <workItem from="1679566676180" duration="841000" />
       <workItem from="1679572063786" duration="5725000" />
-      <workItem from="1679579470498" duration="991000" />
+      <workItem from="1679579470498" duration="1548000" />
     </task>
     <task id="LOCAL-00001" summary="线性代数">
       <created>1679482527398</created>
@@ -308,7 +309,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679578991232</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="线性回归">
+      <created>1679580626761</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1679580626761</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
