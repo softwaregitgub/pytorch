@@ -168,6 +168,7 @@ for epoch in range(num_epochs):
 print(f'w的估计误差: {true_w - w.reshape(true_w.shape)}')
 print(f'b的估计误差: {true_b - b}')
 
+
 """
     迭代周期：
         epoch 1, loss 0.044128
