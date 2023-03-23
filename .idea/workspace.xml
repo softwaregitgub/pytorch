@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af81b6eb-2efd-4ce7-9d92-68fefb4d1c6c" name="Changes" comment="自动求导">
-      <change afterPath="$PROJECT_DIR$/DeepLearning/LinearNeuralNetwork/可视化正态分布.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DeepLearning/LinearNeuralNetwork/线性回归.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DeepLearning/LinearNeuralNetwork/线性回归.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearning/AutogradSlides/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/DeepLearning/Preknowledge/AutogradSlides/img.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearning/AutogradSlides/自动求导.md" beforeDir="false" afterPath="$PROJECT_DIR$/DeepLearning/Preknowledge/AutogradSlides/自动求导.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearning/Calculus/plot.py" beforeDir="false" afterPath="$PROJECT_DIR$/DeepLearning/Preknowledge/Calculus/plot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearning/Calculus/微积分.py" beforeDir="false" afterPath="$PROJECT_DIR$/DeepLearning/Preknowledge/Calculus/微积分.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearning/安装.md" beforeDir="false" afterPath="$PROJECT_DIR$/DeepLearning/Preknowledge/安装.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearning/数据操作.md" beforeDir="false" afterPath="$PROJECT_DIR$/DeepLearning/Preknowledge/数据操作.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearning/数据预处理.md" beforeDir="false" afterPath="$PROJECT_DIR$/DeepLearning/Preknowledge/数据预处理.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearning/线性代数.md" beforeDir="false" afterPath="$PROJECT_DIR$/DeepLearning/Preknowledge/线性代数.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearning/LinearNeuralNetwork/线性回归.md" beforeDir="false" afterPath="$PROJECT_DIR$/DeepLearning/LinearNeuralNetwork/线性回归.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -218,7 +208,7 @@
       <workItem from="1679555452150" duration="426000" />
       <workItem from="1679556195816" duration="3242000" />
       <workItem from="1679559538390" duration="2392000" />
-      <workItem from="1679562394258" duration="2795000" />
+      <workItem from="1679562394258" duration="3002000" />
     </task>
     <task id="LOCAL-00001" summary="线性代数">
       <created>1679482527398</created>
@@ -234,7 +224,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679555194845</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="自动求导">
+      <created>1679565198636</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679565198636</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
