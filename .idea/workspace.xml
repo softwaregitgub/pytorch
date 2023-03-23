@@ -51,7 +51,7 @@
       <recent name="$PROJECT_DIR$/DeepLearning/Calculus" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.线性回归">
+  <component name="RunManager" selected="Python.plot">
     <configuration name="微积分" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pytorch" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -183,7 +183,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.线性回归" />
         <item itemvalue="Python.自动求导.md" />
         <item itemvalue="Python.plot" />
         <item itemvalue="Python.test" />
@@ -205,7 +204,7 @@
       <workItem from="1679555452150" duration="426000" />
       <workItem from="1679556195816" duration="3242000" />
       <workItem from="1679559538390" duration="2392000" />
-      <workItem from="1679562394258" duration="3691000" />
+      <workItem from="1679562394258" duration="3977000" />
     </task>
     <task id="LOCAL-00001" summary="线性代数">
       <created>1679482527398</created>
@@ -242,7 +241,28 @@
       <option name="project" value="LOCAL" />
       <updated>1679565961086</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="线性代数">
+      <created>1679566091775</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1679566091775</updated>
+    </task>
+    <task id="LOCAL-00007" summary="线性代数">
+      <created>1679566150505</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1679566150505</updated>
+    </task>
+    <task id="LOCAL-00008" summary="线性代数">
+      <created>1679566199436</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1679566199436</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
