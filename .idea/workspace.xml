@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af81b6eb-2efd-4ce7-9d92-68fefb4d1c6c" name="Changes" comment="线性回归">
-      <change afterPath="$PROJECT_DIR$/DeepLearning/LinearNeuralNetwork/线性回归代码的简洁实现.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DeepLearning/LinearNeuralNetwork/线性回归代码的简洁实现.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearning/LinearNeuralNetwork/线性回归代码的简洁实现.py" beforeDir="false" afterPath="$PROJECT_DIR$/DeepLearning/LinearNeuralNetwork/线性回归代码的简洁实现.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DeepLearning/LinearNeuralNetwork/线性回归的从零开始实现.md" beforeDir="false" afterPath="$PROJECT_DIR$/DeepLearning/LinearNeuralNetwork/线性回归的从零开始实现.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearning/LinearNeuralNetwork/线性回归的从零开始实现.py" beforeDir="false" afterPath="$PROJECT_DIR$/DeepLearning/LinearNeuralNetwork/线性回归的从零开始实现.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +57,7 @@
       <recent name="$PROJECT_DIR$/DeepLearning/Calculus" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.plot">
+  <component name="RunManager" selected="Python.线性回归代码的简洁实现">
     <configuration name="微积分" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pytorch" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -72,6 +74,25 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DeepLearning/Calculus/微积分.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="线性回归代码的简洁实现" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pytorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DeepLearning/LinearNeuralNetwork" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DeepLearning/LinearNeuralNetwork/线性回归代码的简洁实现.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -206,6 +227,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.线性回归代码的简洁实现" />
         <item itemvalue="Python.自动求导.md" />
         <item itemvalue="Python.plot" />
         <item itemvalue="Python.test" />
@@ -230,7 +252,8 @@
       <workItem from="1679562394258" duration="3977000" />
       <workItem from="1679566676180" duration="841000" />
       <workItem from="1679572063786" duration="5725000" />
-      <workItem from="1679579470498" duration="1548000" />
+      <workItem from="1679579470498" duration="2215000" />
+      <workItem from="1679618140019" duration="7073000" />
     </task>
     <task id="LOCAL-00001" summary="线性代数">
       <created>1679482527398</created>
@@ -316,7 +339,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679580626761</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="线性回归">
+      <created>1679581108840</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1679581108841</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -344,7 +374,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/DeepLearning/LinearNeuralNetwork/线性回归的从零开始实现.py</url>
-          <line>65</line>
+          <line>67</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
