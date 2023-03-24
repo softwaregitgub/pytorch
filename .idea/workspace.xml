@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af81b6eb-2efd-4ce7-9d92-68fefb4d1c6c" name="Changes" comment="线性回归">
-      <change afterPath="$PROJECT_DIR$/DeepLearning/LinearNeuralNetwork/线性回归代码的简洁实现.md" afterDir="false" />
+    <list default="true" id="af81b6eb-2efd-4ce7-9d92-68fefb4d1c6c" name="Changes" comment="线性代码实现">
+      <change afterPath="$PROJECT_DIR$/DeepLearning/LinearNeuralNetwork/图像分类数据集.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearning/LinearNeuralNetwork/线性回归代码的简洁实现.py" beforeDir="false" afterPath="$PROJECT_DIR$/DeepLearning/LinearNeuralNetwork/线性回归代码的简洁实现.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearning/LinearNeuralNetwork/线性回归的从零开始实现.md" beforeDir="false" afterPath="$PROJECT_DIR$/DeepLearning/LinearNeuralNetwork/线性回归的从零开始实现.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearning/LinearNeuralNetwork/线性回归的从零开始实现.py" beforeDir="false" afterPath="$PROJECT_DIR$/DeepLearning/LinearNeuralNetwork/线性回归的从零开始实现.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,23 +54,20 @@
       <recent name="$PROJECT_DIR$/DeepLearning/Calculus" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.线性回归代码的简洁实现">
-    <configuration name="微积分" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.图像分类数据集">
+    <configuration name="图像分类数据集" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pytorch" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DeepLearning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DeepLearning/LinearNeuralNetwork" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DeepLearning/Calculus/微积分.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DeepLearning/LinearNeuralNetwork/图像分类数据集.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -227,11 +221,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.图像分类数据集" />
         <item itemvalue="Python.线性回归代码的简洁实现" />
         <item itemvalue="Python.自动求导.md" />
         <item itemvalue="Python.plot" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.微积分" />
       </list>
     </recent_temporary>
   </component>
@@ -253,7 +247,7 @@
       <workItem from="1679566676180" duration="841000" />
       <workItem from="1679572063786" duration="5725000" />
       <workItem from="1679579470498" duration="2215000" />
-      <workItem from="1679618140019" duration="7073000" />
+      <workItem from="1679618140019" duration="14473000" />
     </task>
     <task id="LOCAL-00001" summary="线性代数">
       <created>1679482527398</created>
@@ -346,7 +340,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679581108841</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="线性代码实现">
+      <created>1679626998316</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1679626998316</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -367,7 +368,8 @@
     <MESSAGE value="自动求导" />
     <MESSAGE value="线性代数" />
     <MESSAGE value="线性回归" />
-    <option name="LAST_COMMIT_MESSAGE" value="线性回归" />
+    <MESSAGE value="线性代码实现" />
+    <option name="LAST_COMMIT_MESSAGE" value="线性代码实现" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -377,12 +379,17 @@
           <line>67</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DeepLearning/LinearNeuralNetwork/图像分类数据集.py</url>
+          <line>90</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pytorch$_01.coverage" NAME="线性回归的从零开始实现_01 Coverage Results" MODIFIED="1679577405527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearning/LinearNeuralNetwork" />
     <SUITE FILE_PATH="coverage/pytorch$plot.coverage" NAME="plot Coverage Results" MODIFIED="1679538007988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearning/Calculus" />
-    <SUITE FILE_PATH="coverage/pytorch$.coverage" NAME="自动求导 Coverage Results" MODIFIED="1679537947134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearning/AutogradSlides" />
+    <SUITE FILE_PATH="coverage/pytorch$.coverage" NAME="图像分类数据集 Coverage Results" MODIFIED="1679642180601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearning/LinearNeuralNetwork" />
   </component>
 </project>
