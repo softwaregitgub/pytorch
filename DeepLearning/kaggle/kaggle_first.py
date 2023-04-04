@@ -37,7 +37,7 @@ def download(name, cache_dir=os.path.join('..', 'data')):  #@save
         f.write(r.content)
     return fname
 
-def download_extract(name, folder=None):  #@save
+def download_extract(name, folder=None):
     """下载并解压zip/tar文件"""
     fname = download(name)
     base_dir = os.path.dirname(fname)
@@ -52,7 +52,7 @@ def download_extract(name, folder=None):  #@save
     return os.path.join(base_dir, folder) if folder else data_dir
 
 
-def download_all():  #@save
+def download_all():
     """下载DATA_HUB中的所有文件"""
     for name in DATA_HUB:
         download(name)
@@ -106,6 +106,7 @@ in_features = train_features.shape[1]
 def get_net():
     net = nn.Sequential(nn.Linear(in_features,1))
     return net
+
 
 def log_rmse(net, features, labels):
     # 为了在取对数时进一步稳定该值，将小于1的值设置为1
