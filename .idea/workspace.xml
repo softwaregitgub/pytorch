@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af81b6eb-2efd-4ce7-9d92-68fefb4d1c6c" name="Changes" comment="underfitting">
-      <change afterPath="$PROJECT_DIR$/DeepLearning/BuildersGuide/LayersAndModules.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DeepLearning/BuildersGuide/ParameterManagemen.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,8 +54,8 @@
       <recent name="$PROJECT_DIR$/DeepLearning/Calculus" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.LayersAndModules">
-    <configuration name="多层感知机的简洁实现" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.ParameterManagemen">
+    <configuration name="权重衰减" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pytorch" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -68,7 +68,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DeepLearning/MlmultilayerPerceptron/多层感知机的简洁实现.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DeepLearning/MlmultilayerPerceptron/权重衰减.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -81,6 +81,9 @@
       <module name="pytorch" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DeepLearning/BuildersGuide" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -96,17 +99,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="权重衰减" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ParameterManagemen" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pytorch" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DeepLearning/MlmultilayerPerceptron" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DeepLearning/BuildersGuide" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DeepLearning/MlmultilayerPerceptron/权重衰减.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DeepLearning/BuildersGuide/ParameterManagemen.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -214,6 +217,9 @@
       <module name="pytorch" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DeepLearning/MlmultilayerPerceptron" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -295,32 +301,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="softmax回归的简洁实现" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pytorch" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DeepLearning/LinearNeuralNetwork" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DeepLearning/LinearNeuralNetwork/softmax回归的简洁实现.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ParameterManagemen" />
         <item itemvalue="Python.LayersAndModules" />
         <item itemvalue="Python.模型选择_欠拟合和过拟合" />
         <item itemvalue="Python.暂退法_Dropout" />
         <item itemvalue="Python.kaggle_first" />
-        <item itemvalue="Python.多层感知机的简洁实现" />
       </list>
     </recent_temporary>
   </component>
@@ -355,6 +342,8 @@
       <workItem from="1680477805356" duration="1203000" />
       <workItem from="1680574473165" duration="9211000" />
       <workItem from="1681086831611" duration="5717000" />
+      <workItem from="1681174385785" duration="9225000" />
+      <workItem from="1681345787520" duration="4852000" />
     </task>
     <task id="LOCAL-00001" summary="线性代数">
       <created>1679482527398</created>
@@ -565,6 +554,7 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pytorch$ParameterManagemen.coverage" NAME="ParameterManagemen Coverage Results" MODIFIED="1681346435866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearning/BuildersGuide" />
     <SUITE FILE_PATH="coverage/pytorch$_01.coverage" NAME="线性回归的从零开始实现_01 Coverage Results" MODIFIED="1679577405527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearning/LinearNeuralNetwork" />
     <SUITE FILE_PATH="coverage/pytorch$softmax.coverage" NAME="softmax回归的从零开始实现 Coverage Results" MODIFIED="1679885030334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearning/LinearNeuralNetwork" />
     <SUITE FILE_PATH="coverage/pytorch$plot.coverage" NAME="plot Coverage Results" MODIFIED="1679538007988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearning/Calculus" />
