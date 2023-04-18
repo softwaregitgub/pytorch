@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af81b6eb-2efd-4ce7-9d92-68fefb4d1c6c" name="Changes" comment="自定义层">
-      <change afterPath="$PROJECT_DIR$/DeepLearning/BuildersGuide/File_I_O.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearning/BuildersGuide/File_I_O.py" beforeDir="false" afterPath="$PROJECT_DIR$/DeepLearning/BuildersGuide/File_I_O.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -312,7 +312,7 @@
       <workItem from="1680574473165" duration="9211000" />
       <workItem from="1681086831611" duration="5717000" />
       <workItem from="1681174385785" duration="9225000" />
-      <workItem from="1681345787520" duration="23964000" />
+      <workItem from="1681345787520" duration="24017000" />
     </task>
     <task id="LOCAL-00001" summary="线性代数">
       <created>1679482527398</created>
@@ -496,7 +496,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681700044893</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="自定义层">
+      <created>1681801725643</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1681801725643</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

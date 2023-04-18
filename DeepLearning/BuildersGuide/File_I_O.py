@@ -34,6 +34,7 @@ class MLP(nn.Module):
     def forward(self, x):
         return self.output(F.relu(self.hidden(x)))
 
+
 net = MLP()
 X = torch.randn(size=(2, 20))
 Y = net(X)
