@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af81b6eb-2efd-4ce7-9d92-68fefb4d1c6c" name="Changes" comment="自定义层">
+    <list default="true" id="af81b6eb-2efd-4ce7-9d92-68fefb4d1c6c" name="Changes" comment="I/O">
+      <change afterPath="$PROJECT_DIR$/DeepLearning/BuildersGuide/GPU.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearning/BuildersGuide/File_I_O.py" beforeDir="false" afterPath="$PROJECT_DIR$/DeepLearning/BuildersGuide/File_I_O.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,11 +54,14 @@
       <recent name="$PROJECT_DIR$/DeepLearning/Calculus" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.File_I_O">
+  <component name="RunManager" selected="Python.GPU">
     <configuration name="CustomLayers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pytorch" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DeepLearning/BuildersGuide" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -78,6 +81,9 @@
       <module name="pytorch" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DeepLearning/BuildersGuide" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -93,20 +99,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="LayersAndModules" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="GPU" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pytorch" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DeepLearning/BuildersGuide" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DeepLearning/BuildersGuide/LayersAndModules.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DeepLearning/BuildersGuide/GPU.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -119,6 +122,9 @@
       <module name="pytorch" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DeepLearning/BuildersGuide" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -138,6 +144,9 @@
       <module name="pytorch" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DeepLearning/BuildersGuide" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -145,25 +154,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DeepLearning/BuildersGuide/ParameterManagemen.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="多层感知机" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pytorch" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DeepLearning/MlmultilayerPerceptron" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DeepLearning/MlmultilayerPerceptron/多层感知机.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -272,11 +262,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.GPU" />
         <item itemvalue="Python.File_I_O" />
         <item itemvalue="Python.CustomLayers" />
         <item itemvalue="Python.LazyInitialization" />
         <item itemvalue="Python.ParameterManagemen" />
-        <item itemvalue="Python.LayersAndModules" />
       </list>
     </recent_temporary>
   </component>
@@ -312,7 +302,8 @@
       <workItem from="1680574473165" duration="9211000" />
       <workItem from="1681086831611" duration="5717000" />
       <workItem from="1681174385785" duration="9225000" />
-      <workItem from="1681345787520" duration="24017000" />
+      <workItem from="1681345787520" duration="25881000" />
+      <workItem from="1681866135487" duration="6331000" />
     </task>
     <task id="LOCAL-00001" summary="线性代数">
       <created>1679482527398</created>
@@ -503,7 +494,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681801725643</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="I/O">
+      <created>1681801781608</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1681801781608</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -535,7 +533,8 @@
     <MESSAGE value="参数管理" />
     <MESSAGE value="延后初始化" />
     <MESSAGE value="自定义层" />
-    <option name="LAST_COMMIT_MESSAGE" value="自定义层" />
+    <MESSAGE value="I/O" />
+    <option name="LAST_COMMIT_MESSAGE" value="I/O" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -550,12 +549,18 @@
           <line>90</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DeepLearning/BuildersGuide/GPU.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pytorch$ParameterManagemen.coverage" NAME="ParameterManagemen Coverage Results" MODIFIED="1681346435866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearning/BuildersGuide" />
     <SUITE FILE_PATH="coverage/pytorch$_01.coverage" NAME="线性回归的从零开始实现_01 Coverage Results" MODIFIED="1679577405527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearning/LinearNeuralNetwork" />
+    <SUITE FILE_PATH="coverage/pytorch$GPU.coverage" NAME="GPU Coverage Results" MODIFIED="1681869159514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearning/BuildersGuide" />
     <SUITE FILE_PATH="coverage/pytorch$softmax.coverage" NAME="softmax回归的从零开始实现 Coverage Results" MODIFIED="1679885030334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearning/LinearNeuralNetwork" />
     <SUITE FILE_PATH="coverage/pytorch$plot.coverage" NAME="plot Coverage Results" MODIFIED="1679538007988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearning/Calculus" />
     <SUITE FILE_PATH="coverage/pytorch$.coverage" NAME="多层感知机的从零开始实现 Coverage Results" MODIFIED="1679903938486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearning/MlmultilayerPerceptron" />
