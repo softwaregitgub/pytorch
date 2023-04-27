@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af81b6eb-2efd-4ce7-9d92-68fefb4d1c6c" name="Changes" comment="GPU">
-      <change afterPath="$PROJECT_DIR$/DeepLearning/ConvolutionalNeuralNetworks/ConvolutionsForImages.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="af81b6eb-2efd-4ce7-9d92-68fefb4d1c6c" name="Changes" comment="图像卷积" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -290,7 +287,7 @@
       <workItem from="1681866135487" duration="7310000" />
       <workItem from="1682232803832" duration="1573000" />
       <workItem from="1682557165945" duration="2752000" />
-      <workItem from="1682561408479" duration="7882000" />
+      <workItem from="1682561408479" duration="8248000" />
     </task>
     <task id="LOCAL-00001" summary="线性代数">
       <created>1679482527398</created>
@@ -495,7 +492,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681888538256</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="图像卷积">
+      <created>1682580024767</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1682580024767</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -529,7 +533,8 @@
     <MESSAGE value="自定义层" />
     <MESSAGE value="I/O" />
     <MESSAGE value="GPU" />
-    <option name="LAST_COMMIT_MESSAGE" value="GPU" />
+    <MESSAGE value="图像卷积" />
+    <option name="LAST_COMMIT_MESSAGE" value="图像卷积" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
