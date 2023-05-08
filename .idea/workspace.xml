@@ -78,13 +78,16 @@
       <module name="pytorch" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DeepLearning/ConvolutionalNeuralNetworks" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DeepLearning/ConvolutionalNeuralNetworks/ConvolutionsForImages.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DeepLearning/chapter7_ConvolutionanlNeuralNetworks/ConvolutionsForImages.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -287,7 +290,7 @@
       <workItem from="1681866135487" duration="7310000" />
       <workItem from="1682232803832" duration="1573000" />
       <workItem from="1682557165945" duration="2752000" />
-      <workItem from="1682561408479" duration="8248000" />
+      <workItem from="1682561408479" duration="8869000" />
     </task>
     <task id="LOCAL-00001" summary="线性代数">
       <created>1679482527398</created>
@@ -499,7 +502,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682580024767</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="图像卷积">
+      <created>1682580376379</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1682580376379</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
