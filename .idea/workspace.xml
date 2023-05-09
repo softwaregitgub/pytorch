@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af81b6eb-2efd-4ce7-9d92-68fefb4d1c6c" name="Changes" comment="图像卷积" />
+    <list default="true" id="af81b6eb-2efd-4ce7-9d92-68fefb4d1c6c" name="Changes" comment="图像卷积">
+      <change afterPath="$PROJECT_DIR$/DeepLearning/chapter7_ConvolutionanlNeuralNetworks/Padding_and_Stride.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,33 +50,12 @@
       <recent name="$PROJECT_DIR$/DeepLearning/LinearNeuralNetwork" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/DeepLearning/chapter7_ConvolutionanlNeuralNetworks" />
       <recent name="$PROJECT_DIR$/DeepLearning/预备知识" />
       <recent name="$PROJECT_DIR$/DeepLearning/Calculus" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ConvolutionsForImages">
-    <configuration name="线性回归代码的简洁实现" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pytorch" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DeepLearning/LinearNeuralNetwork" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DeepLearning/LinearNeuralNetwork/线性回归代码的简洁实现.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Padding_and_Stride">
     <configuration name="ConvolutionsForImages" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pytorch" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -162,20 +144,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="LazyInitialization" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Padding_and_Stride" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pytorch" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DeepLearning/BuildersGuide" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DeepLearning/chapter7_ConvolutionanlNeuralNetworks" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DeepLearning/BuildersGuide/LazyInitialization.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DeepLearning/chapter7_ConvolutionanlNeuralNetworks/Padding_and_Stride.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -246,11 +225,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Padding_and_Stride" />
         <item itemvalue="Python.ConvolutionsForImages" />
         <item itemvalue="Python.GPU" />
         <item itemvalue="Python.File_I_O" />
         <item itemvalue="Python.CustomLayers" />
-        <item itemvalue="Python.LazyInitialization" />
       </list>
     </recent_temporary>
   </component>
@@ -291,6 +270,7 @@
       <workItem from="1682232803832" duration="1573000" />
       <workItem from="1682557165945" duration="2752000" />
       <workItem from="1682561408479" duration="8869000" />
+      <workItem from="1683533491870" duration="4024000" />
     </task>
     <task id="LOCAL-00001" summary="线性代数">
       <created>1679482527398</created>
@@ -509,7 +489,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682580376379</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="图像卷积">
+      <created>1683533615468</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1683533615468</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
